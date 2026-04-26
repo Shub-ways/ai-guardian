@@ -56,13 +56,15 @@ AI Guardian is a multi-modal AI system that detects phishing links and scam mess
 
 ## 🎥 Demo Video
 
-(Add your demo video link here)
+[(Add your demo video link here)](https://drive.google.com/file/d/1TltZH6wGOWzaINEws1TM2zBwZT-xAG9T/view?usp=sharing)<img width="1602" height="81" alt="image" src="https://github.com/user-attachments/assets/050b99af-3480-4270-b8ae-c3c0818e47e3" />
+
 
 ---
 
 ## 🔗 Live API
 
-(Add your deployment link or /docs link)
+[(Add your deployment link or /docs link)](https://ai-guardian-g5bz.onrender.com/docs)<img width="774" height="81" alt="image" src="https://github.com/user-attachments/assets/d08eab2f-5948-44cc-829a-379b6cab4b74" />
+
 
 ---
 
